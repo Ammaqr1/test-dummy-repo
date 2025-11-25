@@ -1,4 +1,5 @@
 import streamlit as st
+import websockets
 
 # Page configuration
 st.set_page_config(
