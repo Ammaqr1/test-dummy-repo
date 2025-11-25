@@ -11,7 +11,7 @@ st.set_page_config(
 )
 
 # Title
-st.title("🚀 Welcome to My Streamlit App")
+st.title("🚀 Welcome to My Streamlit App Ammar")
 st.markdown("---")
 
 # Sidebar
