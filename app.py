@@ -17,7 +17,7 @@ with st.sidebar:
     st.header("Navigation")
     page = st.radio(
         "Choose a page:",
-        ["Home", "Calculator", "Form"]
+        ["Home", "Calculator", "Forms"]
     )
 
 # Main content based on selected page
