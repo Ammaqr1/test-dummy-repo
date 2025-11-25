@@ -1,6 +1,7 @@
 import streamlit as st
 import websockets
 from mani import AlgoKM
+from trading_strategy import TradingStrategy
 
 
 # Page configuration
@@ -11,7 +12,7 @@ st.set_page_config(
 )
 
 # Title
-st.title("🚀 Welcome to My Streamlit App Ammar")
+st.title("🚀 Welcome to My Streamlit App Ammar ad")
 st.markdown("---")
 
 # Sidebar
