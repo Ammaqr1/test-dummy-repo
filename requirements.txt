@@ -1,2 +1,6 @@
 streamlit>=1.28.0
 websockets
+upstox-python-sdk
+pandas
+dotenv
+pytz
